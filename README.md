@@ -45,6 +45,7 @@ Optional
 * Settings --> user settings 
 
 ## Wireframes 
+<img src="wireframe.jpg" width=800><br>
 
 ## Schema 
 ### 1. Models 
