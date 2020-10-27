@@ -49,6 +49,35 @@ Optional
 
 ## Schema 
 ### 1. Models 
+
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | objectId      | String   | unique id for user chat post |
+   | author        | Pointer to User| display profile photo |
+   | image        | File| display song cover |
+   | image         | File     | image that user posts |
+   | song         | File     | song playing in chat |
+   | likesCount    | Number   | number of likes songs receives 
+
+   
+   
 ### 2. Network Requests 
+#### List of network requests by screen
+
+   ### Profile Screen
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile image
+      
+   ### Music Library Screen 
+   - (Read/GET) Query songs 
+   
+   ### Setting Screen 
+   - (Update/PUT) Update user settings 
+   
+   ### Party Room 
+   - (Create/POST) Create a new post in chat 
+   - (Read/GET) Query songs to play 
 
 
