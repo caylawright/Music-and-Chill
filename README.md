@@ -12,6 +12,9 @@
 Users will be able to log into app and connect with their friends over music. Users can add eachother and host music listening parties. 
 
 ## Product Specs
+1. User Stories (Required and Optional)
+2. Screen Archetypes
+3. Navigation
 
 ## Wireframes 
 
