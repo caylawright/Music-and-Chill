@@ -9,12 +9,40 @@
 ## Overview 
 
 ### Description
-Users will be able to log into app and connect with their friends over music. Users can add eachother and host music listening parties. 
+Users can host listening parties with friends and family to connect with music. 
 
 ## Product Specs
 1. User Stories (Required and Optional)
+Required 
+* User can login and view profile 
+* View genres and popular songs 
+* User can add friends to parties 
+* Chat among users in party 
+* Settings Tab 
+
+Optional 
+* Rate songs 
+* Display song analytics 
+
 2. Screen Archetypes
+* Login- log into account 
+* Register- register account 
+* Party Room- chat and listen to music with friends 
+* User Profile- upload profile picture and fill out information 
+* Music Library- Select song for party 
+* Settings- Set user preferences
+
 3. Navigation
+**Tab Navigation**
+* Profile 
+* Settings 
+* Music Library 
+
+**Flow Navigation**
+* Login --> takes you to profile screen 
+* Music Lubrary --> view songs and create room 
+* Party Room --> chat and select songs 
+* Settings --> user settings 
 
 ## Wireframes 
 
