@@ -1,4 +1,4 @@
-# Music-and-Chill
+# Music and Chill
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -67,8 +67,8 @@ Optional
 #### List of network requests by screen
 
    ### Profile Screen
-      - (Read/GET) Query logged in user object
-      - (Update/PUT) Update user profile image
+   - (Read/GET) Query logged in user object
+   - (Update/PUT) Update user profile image
       
    ### Music Library Screen 
    - (Read/GET) Query songs 
