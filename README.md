@@ -85,4 +85,6 @@ Optional
 - [X] Login screen created 
 - [X] Chatroom screen created 
 - [X] Profile screen created 
-- [X] Setting screen created 
+- [X] Setting screen created
+
+### App Gifs
