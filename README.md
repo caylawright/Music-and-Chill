@@ -81,3 +81,4 @@ Optional
    - (Read/GET) Query songs to play 
 
 
+### Completed user stories
