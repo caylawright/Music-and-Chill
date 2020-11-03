@@ -88,3 +88,7 @@ Optional
 - [X] Setting screen created
 
 ### App Gifs
+<img src="login.gif" width=250>
+<img src="profile.gif" width=250>
+<img src="partyroom.gif" width=250>
+<img src="settings.gif" width=250>
