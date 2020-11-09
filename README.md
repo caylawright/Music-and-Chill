@@ -86,6 +86,12 @@ Optional
 - [X] Chatroom screen created 
 - [X] Profile screen created 
 - [X] Setting screen created
+- [X] Music Library Screen Created
+- [X] Setting screen created
+- [X] Started designing UI
+- [X] Configure Music Player
+- [X] Connected Backend and UI
+- [X] Backend chat connectors created
 
 ### App Gifs
 <img src="login.gif" width=250>
