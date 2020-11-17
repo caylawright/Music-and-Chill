@@ -106,11 +106,11 @@ Optional
 ### App Images 
 - App Icons 
 <img src="music.png" width=100>
-- <img src="profile.png" width=100><br>
-- <img src="settings.png" width=100><br>
-- <img src="heart.png" width=100><br>
-- <img src="houseicon.jpg" width=100><br>
-- <img src="plusicon.jpg" width=100><br>
+<img src="profile.png" width=100>
+<img src="settings.png" width=100>
+<img src="heart.png" width=100>
+<img src="houseicon.jpg" width=100>
+<img src="plusicon.jpg" width=100>
 - App Logo 
-- <img src="logo.png" width=300><br>
+<img src="logo.png" width=300>
 
