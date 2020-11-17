@@ -112,5 +112,5 @@ Optional
 <img src="houseicon.jpg" width=100><br>
 <img src="plusicon.jpg" width=100><br>
 - App Logo 
-<img src="music and chill logo.png" width=600><br>
+<img src="logo.png" width=600><br>
 
