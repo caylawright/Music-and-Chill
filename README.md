@@ -101,6 +101,7 @@ Optional
 <img src="login.gif" width=250>
 <img src="profile.gif" width=250>
 <img src="partyroom.gif" width=250>
+<img src="musicscreen.gif" width=250>
 <img src="settings.gif" width=250>
 
 ### App Images 
