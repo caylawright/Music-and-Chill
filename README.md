@@ -104,6 +104,6 @@ Optional
 <img src="settings.gif" width=250>
 
 ### App Images 
-App Icons 
-App Logo 
+- App Icons 
+- App Logo 
 
