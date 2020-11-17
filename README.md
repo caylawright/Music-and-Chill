@@ -92,6 +92,10 @@ Optional
 - [X] Configure Music Player
 - [X] Connected Backend and UI
 - [X] Backend chat connectors created
+- [X] Configure firebase networks and connections for chatting capabilities #12
+- [X] Upload App Images 
+- [X] Merge all projects to main branch
+- [X] Configure Login API
 
 ### App Gifs
 <img src="login.gif" width=250>
