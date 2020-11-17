@@ -45,7 +45,7 @@ Optional
 * Settings --> user settings 
 
 ## Wireframes 
-<img src="wireframe.jpg" width=800><br>
+<img src="wireframe.jpg" width=600><br>
 
 ## Schema 
 ### 1. Models 
@@ -105,5 +105,12 @@ Optional
 
 ### App Images 
 - App Icons 
+<img src="music.png" width=600><br>
+<img src="profile.png" width=600><br>
+<img src="settings.png" width=600><br>
+<img src="heart.png" width=600><br>
+<img src="houseicon.png" width=600><br>
+<img src="plusicon.png" width=600><br>
 - App Logo 
+<img src="music and chill logo.png" width=600><br>
 
