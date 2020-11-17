@@ -105,7 +105,7 @@ Optional
 
 ### App Images 
 - App Icons 
-- <img src="music.png" width=100><br>
+<img src="music.png" width=100>
 - <img src="profile.png" width=100><br>
 - <img src="settings.png" width=100><br>
 - <img src="heart.png" width=100><br>
