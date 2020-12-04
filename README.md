@@ -7,7 +7,6 @@
 1. [Description](#Description)
 1. [Product Specs](#Schema)
 1. [Wireframes ](#Wireframes)
-1. [Schema](#Schema)
 1. [Models](#Schema)
 1. [Network Request](#Schema)
 1. [Libraries/Dependencies](#Schema)
@@ -30,10 +29,8 @@ We created Music and chill for people who enjoy music and online music streaming
 ## Wireframes 
 <img src="Framework.jpg" width=450><br>
 
-## Shema 
-### 1. Models 
 
-#### Post
+### Models 
 
    | Property      | Type     | Description |
    | ------------- | -------- | ------------|
@@ -45,7 +42,6 @@ We created Music and chill for people who enjoy music and online music streaming
    | referenceSongs    | Number   | connecting songs to API 
 
 
-## Models 
 
 ## Network Request 
 For our Network Request we used Firebase for our API needs. We stored our database and managed our storage with their networks. We used Firebase Realtime Database Security Rules to determine who has read and write access to our database, how we structured the data, and what indexes exist.
@@ -53,11 +49,11 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 
 
 ## Libraries/Dependencies 
-<img src="logo.jpg" width=200><br>
+
 
 ## Images
 <img src="logo.jpg" width=200><br>
-<img src="mediaplayer.jpg" width=200><br>
+
 
 ## Demo!
 
