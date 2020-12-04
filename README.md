@@ -59,6 +59,7 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 
 ## Images
 <img src="logo.jpg" width=200><br>
+<img src="image.jpg" width=200><br>
 
 
 ## Demo!
