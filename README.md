@@ -28,10 +28,16 @@ Music and chill is  for people who simply enjoy music. This Application allows y
 ## Models 
 
 ## Network Request 
+<img src="buildlib1.jpg" width=450><br>
+<img src="buildlib2.jpg" width=450><br>
+
 
 ## Libraries/Dependencies 
+<img src="logo.jpg" width=200><br>
 
 ## Images
+<img src="logo.jpg" width=200><br>
+<img src="mediaplayer.jpg" width=200><br>
 
 ## Demo!
 
