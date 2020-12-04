@@ -14,7 +14,8 @@
 1. [Images](#Images)
 1. [Demo](#Demo)
 
-## Overview 
+## Overview
+Music and chill is  for people who simply enjoy music. This Application allows you and your friends to enjoy music together. A Virtual hang out just like a Music release Party of various genres of music.
 
 ## Description 
 
