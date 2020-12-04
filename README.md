@@ -31,6 +31,19 @@ We created Music and chill for people who enjoy music and online music streaming
 <img src="Framework.jpg" width=450><br>
 
 ## Shema 
+### 1. Models 
+
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | editTextTitle      | String   | Edit song title |
+   | author        | Pointer to User| record user actions |
+   | textViewImage        | File| dcollect song data |
+   | progressBar         | File     | Display counter |
+   | audioUri         | File     | song playing in chat |
+   | referenceSongs    | Number   | connecting songs to API 
+
 
 ## Models 
 
