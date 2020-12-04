@@ -60,7 +60,7 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 ## Images/Icons 
 <img src="homeupload.jpg" width=300><br>
 <img src="browse.jpg" width=300><br>
-<img src="savgedsongs.jpg" width=300><br>
+<img src="savedsongs.jpg" width=300><br>
 <img src="player.jpg" width=300><br>
 <img src="logo.jpg" width=200><br>
 <img src="image.png" width=50><br>
