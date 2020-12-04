@@ -48,8 +48,8 @@ We created Music and chill for people who enjoy music and online music streaming
 ## Models 
 
 ## Network Request 
-<img src="test1.jpg" width=450><br>
-<img src="buildlib2.jpg" width=450><br>
+For our Network Request we used Firebase for our API needs. We stored our database and managed our storage with their networks. We used Firebase Realtime Database Security Rules to determine who has read and write access to our database, how we structured the data, and what indexes exist.
+
 
 
 ## Libraries/Dependencies 
