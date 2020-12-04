@@ -58,14 +58,14 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 <img src="dep.jpg" width=350><br>
 
 ## Images/Icons 
+<img src="player.jpg" width=300><br>
 <img src="logo.jpg" width=200><br>
-<img src="image.png" width=200><br>
-<img src="play.png" width=200><br>
-<img src="sound.png" width=200><br>
-<img src="sound2.png" width=200><br>
-<img src="stop.png" width=200><br>
+<img src="image.png" width=50><br>
+<img src="play.png" width=50><br>
+<img src="sound.png" width=50><br>
+<img src="sound2.png" width=50><br>
+<img src="stop.png" width=50><br>
 
 
 ## Demo!
 <img src="Demo.gif" width=300><br>
-<img src="player.jpg" width=300><br>
