@@ -46,19 +46,20 @@ We created Music and chill for people who enjoy music and online music streaming
 ## Network Request 
 For our Network Request we used Firebase for our API needs. We stored our database and managed our storage with their networks. We used Firebase Realtime Database Security Rules to determine who has read and write access to our database, how we structured the data, and what indexes exist.
 
-<img src="storage.jpg" width=500><br>
+<img src="database.jpg" width=450><br>
+<img src="storage.jpg" width=550><br>
+
 
 
 
 ## Libraries/Dependencies 
-<img src="rules.jpg" width=350><br>
-<img src="lib1.jpg" width=350><br>
-<img src="lib2.jpg" width=350><br>
+<img src="lib1.jpg" width=370><br>
+<img src="lib2.jpg" width=370><br>
 <img src="dep.jpg" width=350><br>
 
 ## Images
 <img src="logo.jpg" width=200><br>
-<img src="storage.jpg" width=300><br>
+
 
 ## Demo!
 <img src="Demo.gif" width=300><br>
