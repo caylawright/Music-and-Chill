@@ -57,6 +57,28 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 <img src="lib2.jpg" width=370><br>
 <img src="dep.jpg" width=350><br>
 
+## Completed user stories
+- [X] Login screen created  
+- [X] Profile screen created 
+- [X] Setting screen created
+- [X] Music Library Screen Created
+- [X] Setting screen created
+- [X] Started designing UI
+- [X] Configure Music Player
+- [X] Connected Backend and UI
+- [X] Backend chat connectors created
+- [X] Configure firebase networks and connections for chatting capabilities 
+- [X] Upload App Images 
+- [X] Confifure Login API
+- [X] Configure/troubleshooting profile tab
+- [X] Testing/troubleshooting Chat Capabilities 
+- [X] Testing/troubleshooting Music player 
+- [X] Add comments to activity files 
+- [X] Update UI
+- [X] Configure Rest API
+- [X] Merge all projects to main branch
+
+
 ## Images/Icons 
 <img src="homeupload.jpg" width=300><br>
 <img src="browse.jpg" width=300><br>
