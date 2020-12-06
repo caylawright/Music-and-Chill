@@ -93,4 +93,4 @@ For our Network Request we used Firebase for our API needs. We stored our databa
 
 
 ## Demo!
-<img src="Demo.gif" width=300><br>
+<img src="DemoX.gif" width=300><br>
